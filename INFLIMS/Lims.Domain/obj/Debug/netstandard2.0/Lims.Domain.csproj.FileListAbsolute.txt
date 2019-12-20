@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\obj\Debug\netstandard2.0\Lims.Domain.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\obj\Debug\netstandard2.0\Lims.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\obj\Debug\netstandard2.0\Lims.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\bin\Debug\netstandard2.0\Lims.Domain.deps.json
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\bin\Debug\netstandard2.0\Lims.Domain.dll
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\bin\Debug\netstandard2.0\Lims.Domain.pdb
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\obj\Debug\netstandard2.0\Lims.Domain.dll
+C:\Users\PC\source\repos\IM_LIMS\Lims.Domain\obj\Debug\netstandard2.0\Lims.Domain.pdb

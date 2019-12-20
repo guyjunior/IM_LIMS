@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.AssemblyInfo.cs
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\bin\Debug\netstandard2.0\Lims.Infra.deps.json
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\bin\Debug\netstandard2.0\Lims.Infra.dll
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\bin\Debug\netstandard2.0\Lims.Infra.pdb
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\bin\Debug\netstandard2.0\Lims.Domain.dll
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\bin\Debug\netstandard2.0\Lims.Domain.pdb
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.csproj.CopyComplete
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.dll
+C:\Users\PC\source\repos\IM_LIMS\Lims.Infra\obj\Debug\netstandard2.0\Lims.Infra.pdb
